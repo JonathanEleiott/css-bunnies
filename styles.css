@@ -1,0 +1,42 @@
+* {
+  background-color: lightcoral;
+}
+
+section {
+  color: darkslategrey;
+  border: 5px dashed blue;
+}
+
+h2 {
+  color: darkorchid;
+  border: 10px solid black;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+#bunny-features {
+  text-align: center;
+  border: none;
+}
+
+#bunny-enemies {
+  color: gray;
+}
+
+#logo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#bunny-enemies-title {
+  /* text-align: center; */
+  padding-left: 5px;
+  margin: 10px;
+}
